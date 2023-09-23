@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movie.test.js",
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "cucumber": "^6.0.7",
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.0",
+    "puppeteer": "^21.2.1"
+  }
+}
